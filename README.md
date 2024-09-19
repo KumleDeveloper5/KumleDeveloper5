@@ -19,7 +19,7 @@
       </p>
     </td>
     <td>
-      <img src="https://ethiosprint.kumles.com/k1.png" width="350" />
+      <img src="https://ethiosprint.kumles.com/k1.png" width="450" />
     </td>
   </tr>
 </table>
