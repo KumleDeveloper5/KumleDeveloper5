@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to our page! <br/> I'm Thomas, a Fullstack Developer from KUMLE.</p>
 
 <h3>⚡️ Embark on a Digital Odyssey with KUMLE ⚡️</h3><br/>
 
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<h3>Things I code with</h3>
+<h3>Things Wr code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -78,7 +78,7 @@
 
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Our Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -186,48 +186,46 @@
 
 
 <details>
-  <summary><h2>🛠️ Data</h2></summary><br/>
+  <summary><h2>🛠️ KUMLE Data</h2></summary><br/>
 
+**🐱 Our GitHub Data**
 
-**🐱 My GitHub Data** 
+> 📦 5 GB Used in KUMLE's GitHub Storage 
+> 
+> 🏆 100 Contributions in the Year 2024
+> 
+> 💼 Open for Collaboration
+> 
+> 📜 30 Public Repositories 
+> 
+> 🔑 5 Private Repositories 
 
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+**We're Early Innovators 🌅** 
 
 ```text
-🌞 Morning                2255 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-🌆 Daytime                15237 commits       ████████████░░░░░░░░░░░░░   49.96 % 
-🌃 Evening                10804 commits       █████████░░░░░░░░░░░░░░░░   35.42 % 
-🌙 Night                  2204 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+🌞 Morning                150 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                900 commits        ████████████░░░░░░░░░░░░░   60.00 % 
+🌃 Evening                450 commits        ██████░░░░░░░░░░░░░░░░░░░   30.00 % 
+🌙 Night                  50 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs               ██████████████████░░░░░░░   70.95 % 
-Vue.js                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-sh                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JavaScript               15 hrs              ██████████████████░░░░░░░   60.00 % 
+React                    10 hrs              █████████████░░░░░░░░░░░░   40.00 % 
+CSS                      1 hr               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+HTML                     30 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 ```text
 🔥 Editors: 
-Chrome                   4 hrs 45 mins       █████████████████░░░░░░░░   67.57 % 
-VS Code                  2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+VS Code                  20 hrs              █████████████████████████   85.00 % 
+Chrome                   3 hrs               █████████████░░░░░░░░░░░░   12.00 % 
+Terminal                 1 hr               █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 ```text
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████░░░░░░░░   67.57 % 
-WSL                      2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Windows                  18 hrs              ████████████████████████   90.00 % 
+Linix                    2 hrs               ██████████░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 </details>
@@ -235,10 +233,9 @@ WSL                      2 hrs 17 mins       ████████░░░�
 
 
 <p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  📣 Or Social Medias :<br/>
+  <a href="mailto:info@kumles.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/kumledeveloper5/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
