@@ -9,25 +9,30 @@
 <table>
   <tr>
     <td>
-      <p>
-        Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/><br/>
+     
+<p>
+ Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/><br/>
         🌍 <strong>Location:</strong> Based in <a href="#">Addis Ababa</a>, Ethiopia.<br/>
         💻 <strong>Specialization:</strong> Cutting-edge <strong>software development</strong>, <strong>website creation</strong>, and <strong>mobile app solutions</strong>.
-      </p>
+  </p>
 
-      <h4>🚀 Our Technology Stack</h4>
-      <ul>
-        <li>Creating interactive user interfaces with <strong><a href="https://reactjs.org">React</a></strong></li>
+<h4>🚀 Our Technology Stack</h4>
+<ul>
+ <li>Creating interactive user interfaces with <strong><a href="https://reactjs.org">React</a></strong></li>
         <li>Building fast, scalable servers with <strong><a href="https://expressjs.com">Express</a></strong> and <strong><a href="https://nodejs.org">Node.js</a></strong></li>
-      </ul>
+   </ul>
 
-      <h4>🎥 Follow Our Journey</h4>
-      <p>
-        Join us on <a href="https://www.facebook.com/kumledevelopers">Facebook</a> as we develop and contribute to Open Source projects.
-      </p>
+<h4>🎥 Follow Our Journey</h4>
+<p>
+  Join us on <a href="https://www.facebook.com/kumledevelopers">Facebook</a> as we develop and contribute to Open Source projects.
+   </p>
+
+<p>
+
+</p>
     </td>
     <td>
-      <img src="https://ethiosprint.kumles.com/k1.png" width="650" alt="KUMLE Image"/>
+      <img src="https://ethiosprint.kumles.com/k1.png" width="650" />
     </td>
   </tr>
 </table>
