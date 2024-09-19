@@ -9,7 +9,6 @@
 <table>
   <tr>
     <td>
-     <h3>⚡️ Embark on a Digital Odyssey with KUMLE ⚡️</h3>
 
 <p>
   Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/>
@@ -34,7 +33,7 @@
 </p>
     </td>
     <td>
-      <img src="https://ethiosprint.kumles.com/k1.png" width="450" />
+      <img src="https://ethiosprint.kumles.com/k1.png" width="550" />
     </td>
   </tr>
 </table>
