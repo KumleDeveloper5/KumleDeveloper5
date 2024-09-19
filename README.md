@@ -3,6 +3,16 @@
 
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
+<h3>⚡️ Embark on a Digital Odyssey with KUMLE ⚡️</h3><br/>
+<p>
+  Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/>
+  🌍 Based in <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, France.<br/>
+  💻 Specializing in cutting-edge <strong>software development</strong>, <strong>website creation</strong>, and <strong>mobile app solutions</strong>.<br/>
+  🚀 We leverage the power of <strong><a href="https://vuejs.org">Vue.js</a></strong> and <strong><a href="https://laravel.com">Laravel</a></strong> to deliver top-tier digital experiences.<br/>
+  🎥 Join us on <a href="https://twitch.tv/mrstandu33">Twitch</a> as we develop and contribute to Open Source projects.<br/>
+  🎓 Proud to be mentors on <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a>, shaping the next generation of developers for over 6 years.
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -52,16 +62,7 @@
   <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Embark on a Digital Odyssey with KUMLE ⚡️</h3><br/>
-<p>
-  Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/>
-  🌍 Based in <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, France.<br/>
-  💻 Specializing in cutting-edge <strong>software development</strong>, <strong>website creation</strong>, and <strong>mobile app solutions</strong>.<br/>
-  🚀 We leverage the power of <strong><a href="https://vuejs.org">Vue.js</a></strong> and <strong><a href="https://laravel.com">Laravel</a></strong> to deliver top-tier digital experiences.<br/>
-  🎥 Join us on <a href="https://twitch.tv/mrstandu33">Twitch</a> as we develop and contribute to Open Source projects.<br/>
-  🎓 Proud to be mentors on <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a>, shaping the next generation of developers for over 6 years.
-</p>
+
 <p>
   🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
 </p><br/>
