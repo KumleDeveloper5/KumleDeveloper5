@@ -12,6 +12,7 @@
   🚀 We leverage the power of <strong><a href="https://vuejs.org">Vue.js</a></strong> and <strong><a href="https://laravel.com">Laravel</a></strong> to deliver top-tier digital experiences.<br/>
   🎥 Join us on <a href="https://twitch.tv/mrstandu33">Twitch</a> as we develop and contribute to Open Source projects.<br/>
   🎓 Proud to be mentors on <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a>, shaping the next generation of developers for over 6 years.
+  <img src="https://ethiosprint.kumles.com/k1.png" width="13"/>
 </p>
 
 
@@ -121,10 +122,6 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-
-
-<br/>
 
 
 <details>
