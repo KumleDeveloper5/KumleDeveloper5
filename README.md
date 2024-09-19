@@ -169,19 +169,12 @@
 </p>
 
 
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
+<br/>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <details>
-  <summary>Quelques statistiques ...</summary><br/>
+  <summary><h2>🛠️ Data</h2></summary><br/>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C674%20hrs%2040%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
 
 **🐱 My GitHub Data** 
 
@@ -204,29 +197,24 @@
 🌙 Night                  2204 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 ```
 
-
-
-
+```text
 💬 Programming Languages: 
 Other                    5 hrs               ██████████████████░░░░░░░   70.95 % 
 Vue.js                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 sh                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-
+```
+```text
 🔥 Editors: 
 Chrome                   4 hrs 45 mins       █████████████████░░░░░░░░   67.57 % 
 VS Code                  2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.52 % 
 Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-
+```
+```text
 💻 Operating System: 
 Windows                  4 hrs 45 mins       █████████████████░░░░░░░░   67.57 % 
 WSL                      2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
 ```
 
-
-
-
- Last Updated on 19/09/2024 00:06:05 UTC
-<!--END_SECTION:waka-->
 </details>
