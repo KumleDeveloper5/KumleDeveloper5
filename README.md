@@ -5,17 +5,24 @@
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 
 <h3>⚡️ Embark on a Digital Odyssey with KUMLE ⚡️</h3><br/>
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <span>
-    Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/>
-    🌍 Based in <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, France.<br/>
-    💻 Specializing in cutting-edge <strong>software development</strong>, <strong>website creation</strong>, and <strong>mobile app solutions</strong>.<br/>
-    🚀 We leverage the power of <strong><a href="https://vuejs.org">Vue.js</a></strong> and <strong><a href="https://laravel.com">Laravel</a></strong> to deliver top-tier digital experiences.<br/>
-    🎥 Join us on <a href="https://twitch.tv/mrstandu33">Twitch</a> as we develop and contribute to Open Source projects.<br/>
-    🎓 Proud to be mentors on <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a>, shaping the next generation of developers for over 6 years.
-  </span>
-  <img src="https://ethiosprint.kumles.com/k1.png" width="350" />
-</p>
+
+<table>
+  <tr>
+    <td>
+      <p>
+        Welcome to <strong>KUMLE</strong>, where innovation meets digital craftsmanship. <br/>
+        🌍 Based in <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, France.<br/>
+        💻 Specializing in cutting-edge <strong>software development</strong>, <strong>website creation</strong>, and <strong>mobile app solutions</strong>.<br/>
+        🚀 We leverage the power of <strong><a href="https://vuejs.org">Vue.js</a></strong> and <strong><a href="https://laravel.com">Laravel</a></strong> to deliver top-tier digital experiences.<br/>
+        🎥 Join us on <a href="https://twitch.tv/mrstandu33">Twitch</a> as we develop and contribute to Open Source projects.<br/>
+        🎓 Proud to be mentors on <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a>, shaping the next generation of developers for over 6 years.
+      </p>
+    </td>
+    <td>
+      <img src="https://ethiosprint.kumles.com/k1.png" width="350" />
+    </td>
+  </tr>
+</table>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
