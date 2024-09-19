@@ -33,7 +33,7 @@
 </p>
     </td>
     <td>
-      <img src="https://ethiosprint.kumles.com/k1.png" width="550" />
+      <img src="https://ethiosprint.kumles.com/k1.png" width="650" />
     </td>
   </tr>
 </table>
