@@ -14,7 +14,7 @@
     🎥 Join us on <a href="https://twitch.tv/mrstandu33">Twitch</a> as we develop and contribute to Open Source projects.<br/>
     🎓 Proud to be mentors on <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a>, shaping the next generation of developers for over 6 years.
   </span>
-  <img src="https://ethiosprint.kumles.com/k1.png" width="50" />
+  <img src="https://ethiosprint.kumles.com/k1.png" width="150" />
 </p>
 
 <details> 
