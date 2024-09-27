@@ -1,9 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
-<p>Welcome to our page! <br/> I'm Thomas, a Fullstack Developer from KUMLE.</p>
-
+<p>Welcome to our page! <br/> We are KUMLE, a software development company specializing in full-stack solutions to meet your business needs.</p>
 <h3>⚡️ Embark on a Digital Odyssey with KUMLE ⚡️</h3><br/>
 
 <table>
